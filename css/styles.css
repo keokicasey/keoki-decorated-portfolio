@@ -1,0 +1,16 @@
+.background{
+    background-color: rgba(5, 19, 11, 0.836);
+}
+
+.main-header{
+    font-size: xx-large;
+}
+.main-section{
+    font-family: garamond;
+    color: yellow;
+    font-size: x-large
+}
+
+.images{
+    text-align: center;
+}
